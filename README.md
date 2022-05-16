@@ -1,2 +1,3 @@
 # CompactCombo
-A very compact Rainmeter skin.
+A compact Rainmeter skin.
+![screenshot](Screenshot.png)
