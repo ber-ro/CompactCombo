@@ -1,7 +1,11 @@
 [Variables]
 Width=100
-Dark=002171ff
-Light=5472d3ff
+BarHeight=16
+LineHeight=40
+SmallSeparator=1
+LargeSeparator=5
+Color1=002171ff
+Color2=5472d3ff
+FontColor=ffffffff
 FontFace=Segoe UI
 FontSize=8
-FontColor=ffffffff
