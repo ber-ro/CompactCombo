@@ -9,3 +9,7 @@ Color2=5472d3ef
 FontColor=ffffffff
 FontFace=Segoe UI
 FontSize=8
+
+[Rainmeter]
+MouseScrollUpAction=!ZPos 1
+MouseScrollDownAction=!ZPos -1
