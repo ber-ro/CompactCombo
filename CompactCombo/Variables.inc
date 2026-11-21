@@ -11,7 +11,9 @@ FontFace=Segoe UI
 FontSize=8
 
 [Rainmeter]
+BackgroundMode=2
+SolidColor=bc5090aa
 MouseScrollUpAction=!ZPos 1
 MouseScrollDownAction=!ZPos -1
-MouseOverAction=[!SetTransparency "10"]
-MouseLeaveAction=[!SetTransparency "255"]
+; MouseOverAction=[!SetTransparency "10"]
+; MouseLeaveAction=[!SetTransparency "255"]
